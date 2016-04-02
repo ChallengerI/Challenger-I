@@ -1397,8 +1397,8 @@ namespace Vayne
 
             BuildMenu();
 
-            Menu = MainMenu.AddMenu("Vayne", "Vayne");
-            Menu.AddLabel("Base Ported from Challenger Series & features ported from many other assemblies on L# - Berb");
+            Menu = MainMenu.AddMenu("CHALLENGER I VAYNE ", "Vayne");
+            Menu.AddLabel("WORK WORK WORK WORK WORK");
             Menu.AddSeparator();
 
             ComboMenu = Menu.AddSubMenu("Combo Settings", "combo");
