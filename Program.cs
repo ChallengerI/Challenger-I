@@ -42,7 +42,7 @@ namespace Challenger Vayne
 
             if (myHero.ChampionName != Champion.Vayne.ToString())
             {
-                Chat.Print("[Berb] : You are not playing Vayne, this addon will not load.");
+                Chat.Print("[Challenger I] : You are not playing Vayne, this addon will not load.");
                 return;
             }
 
