@@ -1398,7 +1398,7 @@ namespace Vayne
             BuildMenu();
 
             Menu = MainMenu.AddMenu("CHALLENGER I VAYNE ", "Vayne");
-            Menu.AddLabel("WORK WORK WORK WORK WORK");
+            Menu.AddLabel("This is the old version of Berb's port -Challenger");
             Menu.AddSeparator();
 
             ComboMenu = Menu.AddSubMenu("Combo Settings", "combo");
