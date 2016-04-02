@@ -1,0 +1,12 @@
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\asd.exe.config
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\asd.exe
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\asd.pdb
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\EloBuddy.dll
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\EloBuddy.SDK.dll
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\Newtonsoft.Json.dll
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\bin\Release\SharpDX.dll
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\obj\Release\Vayne.csprojResolveAssemblyReference.cache
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\obj\Release\asd.exe
+C:\Users\aevan\AppData\Roaming\EloBuddy\Repositories\3F466008\Vayne\obj\Release\asd.pdb
