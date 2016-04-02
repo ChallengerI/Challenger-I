@@ -14,7 +14,7 @@ using SV = SoloVayne.Skills.Tumble;
 using SOLOVayne.Utility.General;
 using SAutoCarry.Champions.Helpers;
 
-namespace Vayne
+namespace Challenger Vayne
 {
     public static class Program
     {
